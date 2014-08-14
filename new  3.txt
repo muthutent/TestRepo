@@ -1,0 +1,23 @@
+siteurl : http://impactiq.org
+home : http://impactiq.org
+
+
+pw: $P$BOxg.e.muQhFtqpEWcNtPVJfxqXSsY/
+
+
+
+
+
+
+
+
+http://localhost:8080/impactiq
+
+21232f297a57a5a743894a0e4a801fc3
+
+
+
+1 Recent Photograph (Passport size)
+Address Proof
+Photo ID Proof
+Income Proof
